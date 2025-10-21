@@ -1,0 +1,153 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "CHARCOAL",
+        "description": "CHARCOAL Stain oxidizes wood, just like nature, to create the rich charcoal black in just one easy step!​",
+        "imageName": "CHARCOAL"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "RECLAMATION",
+        "description": "RECLAMATION Stain is a reactive wood stain that creates various shades of gray, with color results based on wood species. Reclamation is not a pigmented stain, but instead will bring out the wood's existing natural beauty and colors.  That means your end color is a result of the type of wood you're using!​RECLAMATION can be applied 3 different ways.",
+        "imageName": "RECLAMATION"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "BLACK BOGWOOD ",
+        "description": "BLACK BOGWOOD Stain oxidizes wood, just like nature, to create the rich blackened bogwood color in just one easy step!",
+        "imageName": "BLACK BOGWOOD "
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "GOLDEN OAK",
+        "description": "GOLDEN OAK Stain oxidizes wood, just like nature, to create the sun-kissed golden oak color in just one easy step! ",
+        "imageName": "GOLDEN OAK"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "MAHOGANY ",
+        "description": "MAHOGANY stain oxidizes wood, just like nature, to create the rich reddish mahogany brown color in just one easy step!",
+        "imageName": "MAHOGANY "
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "RESTORATION",
+        "description": "RESTORATION Stain oxidizes wood, just like nature, to create the gorgeous warm brown with gray tones! This all-natural formula easily creates the fumed wood look, traditionally achieved from the use of ammonia smoke!",
+        "imageName": "RESTORATION"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "RUSTIC WALNUT",
+        "description": "RUSTIC WALNUT Stain oxidizes wood, just like nature, to create the rustic walnut brown in just one easy step!​",
+        "imageName": "RUSTIC WALNUT"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "SALVAGE",
+        "description": "SALVAGE Stain is a reactive wood stain and creates shades of browns & grays, with color results based on wood species. Salvage is not a pigmented stain, but instead will bring out the wood's existing natural beauty and colors. That means your end color is a result of the type of wood you're using!",
+        "imageName": "SALVAGE"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "AGED BARREL",
+        "description": "AGED BARREL Stain oxidizes wood, just like nature, to create the weathered mix of grays and browns in just one easy step!​ ",
+        "imageName": "AGED BARREL"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "BARNWOOD",
+        "description": "BARNWOOD Stain oxidizes wood, just like nature, to create the rustic barn wood brown in just one easy step!",
+        "imageName": "BARNWOOD"
+    },
+    {
+        "id": "kk32jj887hhg10",
+        "name": "DRIFTWOOD ",
+        "description": "DRIFTWOOD stain oxidizes wood, just like nature, to create the silvery driftwood gray in just one easy step!​",
+        "imageName": "DRIFTWOOD "
+    },
+    {
+        "id": "ll32jj887hhg11",
+        "name": "PINING",
+        "description": "PINING Stain is a reactive wood stain that oxidizes wood, just like nature, to create beautiful shades of GRAY with browns, even on low tannin wood! Pining is especially great at weathering LOW tannin woods including, like pine, white fir, spruce, and poplar, but it can be used on any wood type. ​",
+        "imageName": "PINING"
+    },
+    {
+        "id": "mm32jj887hhg12",
+        "name": "WHITE MAINTENANCE OIL",
+        "description": "White Maintenance Oil creates a beautiful whitewash or a Scandinavian oiled floor. You can use it to lighten Weatherwood-stained wood when you still want to see the grain.",
+        "imageName": "WHITE MAINTENANCE OIL"
+    },
+    {
+        "id": "nn32jj887hhg13",
+        "name": "LIGHT OAKING",
+        "description": "LIGHT OAKING stain oxidizes wood, just like nature, to create the gorgeous driftwood grays! This special formula creates the beautiful silvery gray you would achieve from fuming wood.",
+        "imageName": "LIGHT OAKING"
+    },
+    {
+        "id": "oo32jj887hhg14",
+        "name": "replace with your item's name 14",
+        "description": "replace with a description for this item",
+        "imageName": "image15"
+    },
+    {
+        "id": "pp32jj887hhg15",
+        "name": "replace with your item's name 15",
+        "description": "replace with a description for this item",
+        "imageName": "image16"
+    },
+    {
+        "id": "qq32jj887hhg16",
+        "name": "replace with your item's name 16",
+        "description": "replace with a description for this item",
+        "imageName": "image17"
+    },
+    {
+        "id": "rr32jj887hhg17",
+        "name": "replace with your item's name 17",
+        "description": "replace with a description for this item",
+        "imageName": "image18"
+    },
+    {
+        "id": "ss32jj887hhg18",
+        "name": "replace with your item's name 18",
+        "description": "replace with a description for this item",
+        "imageName": "image19"
+    },
+    {
+        "id": "tt32jj887hhg19",
+        "name": "replace with your item's name 19",
+        "description": "replace with a description for this item",
+        "imageName": "image20"
+    },
+    {
+        "id": "uu32jj887hhg20",
+        "name": "replace with your item's name 20",
+        "description": "replace with a description for this item",
+        "imageName": "image21"
+    },
+    {
+        "id": "vv32jj887hhg21",
+        "name": "replace with your item's name 21",
+        "description": "replace with a description for this item",
+        "imageName": "image22"
+    },
+    {
+        "id": "ww32jj887hhg22",
+        "name": "replace with your item's name 22",
+        "description": "replace with a description for this item",
+        "imageName": "image23"
+    },
+    {
+        "id": "xx32jj887hhg23",
+        "name": "replace with your item's name 23",
+        "description": "replace with a description for this item",
+        "imageName": "image24"
+    },
+    {
+        "id": "yy32jj887hhg24",
+        "name": "replace with your item's name 24",
+        "description": "replace with a description for this item",
+        "imageName": "image25"
+    }
+    
+]
